@@ -89,9 +89,9 @@ These techniques improve the model's ability to generalize on unseen images.
 
 | Metric | Result |
 |----------|----------|
-| Training Accuracy | XX.XX% |
-| Validation Accuracy | XX.XX% |
-| Test Accuracy | XX.XX% |
+| Training Accuracy | 100.00% |
+| Validation Accuracy | 100.00% |
+| Test Accuracy | 96.07% |
 
 > Replace the values above with your final results.
 
