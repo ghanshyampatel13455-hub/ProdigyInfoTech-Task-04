@@ -85,11 +85,7 @@ header {visibility: hidden;}
 # Load Model
 @st.cache_resource
 def load_gesture_model():
-    return load_model(
-    "models/hand_gesture_model.keras",
-    compile=False
-)
-
+return load_model("models/hand_gesture_model.keras")
 model = load_gesture_model()
 
 # Gesture Classes
