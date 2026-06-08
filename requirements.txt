@@ -1,7 +1,7 @@
 tensorflow
 numpy
 pandas
-opencv-python
+opencv-python-headless
 matplotlib
 scikit-learn
 streamlit
